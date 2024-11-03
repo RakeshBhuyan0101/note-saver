@@ -27,7 +27,7 @@ function Pastes() {
     dispatch(removeFromPaste(pasteId));
   }
   return (
-    <div className="bg-[#1E201E] md:h-screen">
+    <div className="bg-[#1E201E] h-screen">
       <div className="flex items-center justify-center pt-5 ">
         <input
           type="search"
