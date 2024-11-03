@@ -7,4 +7,4 @@
 -> edit the note
 -> share the note
 
-live preview : https://note-saver-lemon.vercel.app/pastes
+live preview : https://note-saver-lemon.vercel.app/
